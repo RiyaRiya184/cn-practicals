@@ -3,15 +3,17 @@ add two switches below router (left and right)
 add a pc to each switch 
 connect switches to router
 connect pc's to their switches
-configure pc's
+
+(configure pc's)
 ip address - 192.168.1.2
 subnet mask - 255.255.255.0
 default gateway-192.168.1.1
-same for other pc
+(same for other pc)
 ip address - 192.168.2.2
 subnet mask - 255.255.255.0
 default gateway-192.168.2.1
-configure router
+
+(configure router)
 cli
 enable
 configure terminal
@@ -28,6 +30,7 @@ exit
 (save configuration) 
 end
 write
- ping from pc ping 192.168.2.2 if reply comes then successful
+
+ping from pc ping 192.168.2.2 if reply comes then successful
 
 
