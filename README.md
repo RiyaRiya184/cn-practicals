@@ -26,4 +26,13 @@ Windows. alternative:nslookup
 
 
 # practicals
+## 2. To study and perform PC to PC communication.
+
+   connect two pc's with a wire<br>
+   then select pc go to config then fastethernet0 then ipv4 address 192.168.1.1 then subnet mask for both<br>
+   then desktop then cmd then ping 192.168.1.2 enter
+
+
+## 3. To create Star topology using Hub and Switch. 
+ 
 
