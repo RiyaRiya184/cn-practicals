@@ -8,7 +8,7 @@ ping is a network command used to check the connectivity between two devices on 
 nslookup google.com<br>
 nslookup is a network command used to find the IP address of a domain name or obtain DNS-related information from a DNS server.
 ## 4.trace route
-tracert google.com
+tracert google.com<br>
 traceroute is a network command used to trace and display the path taken by data packets from the source computer to the destination across a network.
 ## 5.netstat
 netstat is a network command used to display active network connections, listening ports, and network statistics of a computer.
