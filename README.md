@@ -2,10 +2,10 @@
 ## 1.ipconfig
 ipconfig is a Windows command-line utility used to display and manage the computer’s network configuration details such as IP address, subnet mask, and default gateway.
 ## 2. ping 
-ping google.com
+ping google.com <br>
 ping is a network command used to check the connectivity between two devices on a network and measure the time taken for data packets to travel from the source to the destination.
 ## 3.nslookup
-nslookup google.com
+nslookup google.com<br>
 nslookup is a network command used to find the IP address of a domain name or obtain DNS-related information from a DNS server.
 ## 4.trace route
 tracert google.com
