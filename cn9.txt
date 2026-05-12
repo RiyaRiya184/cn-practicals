@@ -2,12 +2,12 @@ add a 2960 switch
 add router 2901
 add pc 
 connect pc to switch and switch to router
-configure pcs 
+(configure pcs) 
 ip - 192.168.1.2
 subnet mask -255.255.255.0
 default gateway- 192.168.1.1
 
-configure router ->cli
+(configure router ->cli)
 enable
 configure terminal
 interface gigabitethernet0/0 
