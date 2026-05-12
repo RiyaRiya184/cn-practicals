@@ -1,0 +1,8 @@
+enable 
+configure terminal
+hostname Switch1
+enable password class
+line console 0
+password cisco
+login
+exit
